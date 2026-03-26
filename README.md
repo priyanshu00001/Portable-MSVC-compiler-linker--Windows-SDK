@@ -1,4 +1,4 @@
-# Portable-MSVC-compiler-linker--Windows-SDK
+# Portable-MSVC-compiler-linker-Windows-SDK
 
 ## Setup
 - Run the msvc.py file (folders "download" and "msvc" will be created)
